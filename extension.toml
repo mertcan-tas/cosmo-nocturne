@@ -1,0 +1,7 @@
+id = "cosmo-nocturne"
+name = "Cosmo Nocturne"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mertcan Taş <mertcan.tas@outlook.com>"]
+description = "Cosmo Nocturne Themes for the Zed IDE"
+repository = "https://github.com/mertcan-tas/cosmo-nocturne"
