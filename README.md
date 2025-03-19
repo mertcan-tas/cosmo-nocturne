@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/99591820?s=400&u=9d1c271f2349be8a92fe21da511d279737351024&v=4" width="100" alt="Logo"/><br/>
+	<img src="screenshots/logo.svg" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Cosmo Nocturne Theme for <a href="https://zed.dev/">Zed</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
