@@ -34,7 +34,7 @@
 1. Open Zed.
 2. Press `cmd+shift+p` and select _zed: extensions_.
 3. Search for `Cosmo Nocturne` and install.
-4. Select the `Cosmo Mocha (Blue Blur+)` theme in the dropdown shown after hitting `ctrl+k`, `ctrl+t` (or `cmd+k`, `cmd+t`).
+4. Select the `Cosmo Mocha (Blue Blur+)` theme in the dropdown shown </br>after hitting `ctrl+k`, `ctrl+t` (or `cmd+k`, `cmd+t`).
 
 &nbsp;
 
