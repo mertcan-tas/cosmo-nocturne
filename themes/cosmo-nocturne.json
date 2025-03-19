@@ -375,7 +375,7 @@
       }
     },
     {
-      "name": "Cosmos: Zen Dark",
+      "name": "Cosmo: Zen Dark",
       "appearance": "dark",
       "style": {
         "border": "#ffffff10",
@@ -992,7 +992,7 @@
       }
     },
     {
-         "name": "Cosmos: Mocha (Blue Blur+)",
+         "name": "Cosmo: Mocha (Blue Blur+)",
          "appearance": "dark",
          "style": {
            "background.appearance": "blurred",
